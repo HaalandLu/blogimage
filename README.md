@@ -1,2 +1,2 @@
 # blogimage
-blog的图片
+blog的图  片 
